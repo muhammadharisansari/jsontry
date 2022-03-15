@@ -116,6 +116,7 @@
 
 		<?php
 
+		//untuk menampilkan waktu dengan plugin carbon
 		require 'vendor/autoload.php';
 
 		use Carbon\Carbon;
