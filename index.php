@@ -117,17 +117,17 @@
 		<?php
 
 		//untuk menampilkan waktu dengan plugin carbon
-		require 'vendor/autoload.php';
+		// require 'vendor/autoload.php';
 
-		use Carbon\Carbon;
+		// use Carbon\Carbon;
 
-		$Jakarta_now = Carbon::now('Asia/jakarta');
-		$Vancouver_now = Carbon::now('America/Vancouver');
-		$London_now = Carbon::now('Europe/London');
+		// $Jakarta_now = Carbon::now('Asia/jakarta');
+		// $Vancouver_now = Carbon::now('America/Vancouver');
+		// $London_now = Carbon::now('Europe/London');
 
-		echo "Sekarang di Jakarta : $Jakarta_now <br>";
-		echo "Sekarang di Toronto : $Vancouver_now <br>";
-		echo "Sekarang di London  : $London_now <br><br><br>";
+		// echo "Sekarang di Jakarta : $Jakarta_now <br>";
+		// echo "Sekarang di Toronto : $Vancouver_now <br>";
+		// echo "Sekarang di London  : $London_now <br><br><br>";
 
 		//	Perulangan untuk menampilkan data customer.
 		//	Variabel $i adalah index data customer pada array $dataCustomer.
