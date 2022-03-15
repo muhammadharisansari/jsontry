@@ -165,4 +165,3 @@
 </body>
 
 </html>
-<!-- <td>".totalItem($item[0], $item[1], $item[2])."</td> <!-- Data total item, dengan memanggil fungsi totalItem(). -->
